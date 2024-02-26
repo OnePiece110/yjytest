@@ -1,0 +1,25 @@
+{
+  "name": "@onepiece110/yjytest",
+  "version": "1.0.0",
+  "description": "yjytest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnePiece110/yjytest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "onepiece110",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnePiece110/yjytest/issues"
+  },
+  "homepage": "https://github.com/OnePiece110/yjytest#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
